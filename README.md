@@ -44,7 +44,7 @@ An interactive BookStore Sales Dashboard created using Microsoft Power BI to ana
 
 ## 🖼️ Dashboard Preview
 
-![BookStore Sales Dashboard](screenshots/Dashboard.png)
+![BookStore Sales Dashboard](Dashboard.png)
 
 ## 📁 Project File
 
